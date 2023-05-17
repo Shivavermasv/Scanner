@@ -1,0 +1,25 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ANDROID_PROJECTS/ListView/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ANDROID_PROJECTS/ListView/app/src/main/res/layout/activity_new_ad.xml" value="0.259375" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ANDROID_PROJECTS/ListView/app/src/main/res/layout/layout.xml" value="0.2453125" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ListView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ListView/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ListView/app/src/main/res/drawable/new_image.xml" value="0.2265" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ListView/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ListView/app/src/main/res/layout/activity_new_ad.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ListView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop/ListView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2265" />
+        <entry key="..\:/Users/Manoj Kumar/Desktop_0/ANDROID_PROJECTS/ListView/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
