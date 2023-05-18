@@ -11,6 +11,7 @@
         android:layout_width="398dp"
         android:layout_height="240dp"
         android:layout_marginBottom="140dp"
+<<<<<<< HEAD
         app:layout_constraintBottom_toTopOf="@+id/data"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -29,10 +30,30 @@
         android:textIsSelectable="true"
         android:textSize="20sp"
         android:textStyle="normal|italic"
+=======
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.461"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="219dp"
+        android:layout_height="48dp"
+        android:text="@string/code"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textIsSelectable="true"
+        android:textSize="20sp"
+        android:textStyle="bold"
+>>>>>>> f0d1b0c99fa5200435d36401df16bfe479f73577
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+<<<<<<< HEAD
         app:layout_constraintVertical_bias="0.677" />
 
     <TextView
@@ -46,4 +67,7 @@
         app:layout_constraintStart_toStartOf="@+id/surfaceView"
         app:layout_constraintTop_toTopOf="@+id/surfaceView"
         app:layout_constraintVertical_bias="0.113" />
+=======
+        app:layout_constraintVertical_bias="0.601" />
+>>>>>>> f0d1b0c99fa5200435d36401df16bfe479f73577
 </androidx.constraintlayout.widget.ConstraintLayout>
